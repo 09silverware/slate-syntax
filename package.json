@@ -1,0 +1,11 @@
+{
+  "name": "slate-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A cool theme designed with soft colors to keep eye-burn to a minimum",
+  "repository": "https://github.com/09silverware/slate-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
